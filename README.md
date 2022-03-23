@@ -16,13 +16,13 @@ DashboardEnv/
 und speichern danach die Datei über STRG+s ab. Dadurch wird Git vermittelt, den Ordner DashboardEnv beim Upload zu github nicht zu beachten. 
 
 Wählen Sie nun in der Zeile oben am Bildschirmrand das Feld __Anzeigen__ aus und danach die __Befehlspalette__. In dem Feld sollte nun eine Eingabe möglich sein. Geben Sie dort "Interpreter" ein und wählen Sie diesen aus (siehe folgende Bilder)
-![Select Interpreter](images/interpreter.png) 
+![Select Interpreter](interpreter.png) 
 Danach wählen Sie den Python Interpreter mit Ihrer virtuellen Umgebung "DashboardEnv" aus.
-![Select Environment](images/DashEnv.png)
+![Select Environment](DashEnv.png)
 
 Wenn Sie ihre virtuelle Umgebung ausgewählt haben, sollten Sie im unteren Rechten Eck folgendes sehen:
 
-![Env Activated](images/activated.png)
+![Env Activated](activated.png)
 
 Danach können Sie mit der Installation des "requirements.txt"-Files beginnen. Dafür geben Sie folgenden Code in das Termin ein:
 ``` python
